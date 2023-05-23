@@ -1,0 +1,5 @@
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\controlador\Inicio.class
+com\emergentes\modelo\Producto.class
+com\emergentes\dao\ProductoDAO.class
+com\emergentes\dao\ProductoDAOimpl.class
